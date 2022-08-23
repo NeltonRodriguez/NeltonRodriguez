@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @NeltonRodriguez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning CS50 while studying Software Engineering somewhere :)
+- 💞️ I’m looking to collaborate on (N/A yet)
+- 📫 How to reach me (N/A yet)
 
 <!---
-NeltonRodriguez/NeltonRodriguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Siu
 --->
