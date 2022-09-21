@@ -1,3 +1,3 @@
 I’m @NeltonRodriguez. I'm 20 years old.
-I’m currently taking CS50x while studying Software Engineering in APEC
+I’m currently taking CS50x Computer Science 2022 while studying Software Engineering in APEC...
 
