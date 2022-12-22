@@ -1,3 +1,3 @@
 Soy @NeltonRodriguez. Tengo 20 años.
-Actualmente estudio Ingeniería de Software.
+Estudio Ingeniería de Software.
 
