@@ -1,2 +1,2 @@
-Repositorio curso CS50x
+Soy @Nelton Rodriguez, tengo 20 años y estudio Ingeniería de Software.
 
